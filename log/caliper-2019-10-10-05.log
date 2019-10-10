@@ -1,0 +1,1873 @@
+2019-10-10T05:00:00-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 172250 Succ: 172067 Fail:183 Unfinished:0 
+
+2019-10-10T05:00:01-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 172250 Succ: 172067 Fail:183 Unfinished:0 
+
+2019-10-10T05:00:02-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 172250 Succ: 172067 Fail:183 Unfinished:0 
+
+2019-10-10T05:00:03-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 172250 Succ: 172067 Fail:183 Unfinished:0 
+
+2019-10-10T05:00:03-07:00 - INFO [defaultTest]: ------ Test round 35 ------ 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:03-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:03-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":562,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1800}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":570,"roundIdx":35,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:03-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:03-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#35
+	{"type":"fixed-rate","opts":{"tps":1800}}
+
+2019-10-10T05:00:04-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 172250 Succ: 172067 Fail:183 Unfinished:0 
+
+2019-10-10T05:00:04-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:05-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:05-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:05-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 173877 Succ: 173491 Fail:184 Unfinished:202 
+
+2019-10-10T05:00:06-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:06-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 175677 Succ: 175323 Fail:186 Unfinished:168 
+
+2019-10-10T05:00:07-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:07-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:07-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 177480 Succ: 177204 Fail:187 Unfinished:89 
+
+2019-10-10T05:00:07-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:08-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:08-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 179281 Succ: 179023 Fail:189 Unfinished:69 
+
+2019-10-10T05:00:09-07:00 - DEBUG [report-builder]: r.create.max: 1570708808.882 r.create.min: 1570708803.796 r.final.max: 1570708808.888 r.final.min: 1570708803.814 r.final.last: 1570708808.888 
+
+2019-10-10T05:00:09-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1765.9 
+
+2019-10-10T05:00:09-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 9000 
+
+2019-10-10T05:00:09-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:00:09-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:00:09-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:00:09-07:00 - INFO [report-builder]: 
++-------+------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|------|------|------------|-------------|-------------|-------------|------------|
+| query | 8992 | 8    | 1769.6 tps | 0.31 s      | 0.00 s      | 0.09 s      | 1765.9 tps |
++-------+------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:00:09-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:00:09-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.6MB       | 4.6MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.3MB      | 46.3MB      | 34.12%   | 33.26%   | 4.6MB      | 978.6KB     | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.2MB      | 48.2MB      | 32.01%   | 30.52%   | 4.7MB      | 1.0MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.4MB      | 45.4MB      | 31.99%   | 30.59%   | 4.6MB      | 982.2KB     | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 232.08%  | 230.21%  | 5.9MB      | 8.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 229.49%  | 228.22%  | 6.0MB      | 9.1MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 227.49%  | 226.77%  | 6.0MB      | 8.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.41%    | 0.35%    | 4.2KB      | 4.1KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.68%    | 0.58%    | 8.3KB      | 8.2KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.2GB       | 1.2GB       | 0.33%    | 0.31%    | 4.2KB      | 4.1KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:00:09-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:00:09-07:00 - INFO [defaultTest]: Waiting 5 seconds for the next round... 
+
+2019-10-10T05:00:09-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:10-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:11-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:12-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:13-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:14-07:00 - INFO [defaultTest]: ------ Test round 36 ------ 
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:14-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:14-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":605,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:14-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":1900}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":593,"roundIdx":36,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:14-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#36
+	{"type":"fixed-rate","opts":{"tps":1900}}
+
+2019-10-10T05:00:14-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:14-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:14-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:14-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:14-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 181250 Succ: 181059 Fail:191 Unfinished:0 
+
+2019-10-10T05:00:15-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:15-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:15-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 182938 Succ: 182129 Fail:195 Unfinished:614 
+
+2019-10-10T05:00:15-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:16-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 184836 Succ: 184461 Fail:198 Unfinished:177 
+
+2019-10-10T05:00:16-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:17-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:17-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 186738 Succ: 186290 Fail:199 Unfinished:249 
+
+2019-10-10T05:00:17-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:18-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:18-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:18-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:18-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 188642 Succ: 188120 Fail:202 Unfinished:320 
+
+2019-10-10T05:00:18-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:19-07:00 - DEBUG [report-builder]: r.create.max: 1570708819.327 r.create.min: 1570708814.222 r.final.max: 1570708819.333 r.final.min: 1570708814.239 r.final.last: 1570708819.333 
+
+2019-10-10T05:00:19-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1856.0 
+
+2019-10-10T05:00:19-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 9500 
+
+2019-10-10T05:00:19-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:00:19-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:00:19-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:00:19-07:00 - INFO [report-builder]: 
++-------+------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|------|------|------------|-------------|-------------|-------------|------------|
+| query | 9486 | 14   | 1860.9 tps | 0.63 s      | 0.00 s      | 0.19 s      | 1856.0 tps |
++-------+------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:00:19-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:00:19-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.6MB       | 4.6MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.3MB      | 46.3MB      | 33.38%   | 29.75%   | 9.3MB      | 1.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.4MB      | 48.3MB      | 33.24%   | 29.06%   | 9.3MB      | 1.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.5MB      | 45.5MB      | 33.50%   | 29.46%   | 9.5MB      | 1.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 239.20%  | 214.82%  | 12.0MB     | 18.1MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 241.69%  | 223.89%  | 11.8MB     | 18.1MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 231.61%  | 216.88%  | 11.8MB     | 18.4MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.43%    | 0.37%    | 8.7KB      | 8.7KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.66%    | 0.62%    | 17.3KB     | 17.3KB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.2GB       | 1.2GB       | 0.49%    | 0.46%    | 8.7KB      | 8.7KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 70B        | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:00:19-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:00:19-07:00 - INFO [defaultTest]: Waiting 5 seconds for the next round... 
+
+2019-10-10T05:00:19-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:20-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:21-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:22-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:23-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:24-07:00 - INFO [defaultTest]: ------ Test round 37 ------ 
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:24-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:24-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2000}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":625,"roundIdx":37,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#37
+	{"type":"fixed-rate","opts":{"tps":2000}}
+
+2019-10-10T05:00:24-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 190750 Succ: 190545 Fail:205 Unfinished:0 
+
+2019-10-10T05:00:25-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:25-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 192545 Succ: 191731 Fail:205 Unfinished:609 
+
+2019-10-10T05:00:26-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:26-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:26-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:26-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 194547 Succ: 193326 Fail:208 Unfinished:1013 
+
+2019-10-10T05:00:27-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:27-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:27-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:27-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 196548 Succ: 195262 Fail:212 Unfinished:1074 
+
+2019-10-10T05:00:28-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:28-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:28-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 198542 Succ: 197682 Fail:212 Unfinished:648 
+
+2019-10-10T05:00:29-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:29-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:29-07:00 - DEBUG [report-builder]: r.create.max: 1570708829.71 r.create.min: 1570708824.667 r.final.max: 1570708829.763 r.final.min: 1570708824.682 r.final.last: 1570708829.763 
+
+2019-10-10T05:00:29-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1960.2 
+
+2019-10-10T05:00:29-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 10000 
+
+2019-10-10T05:00:29-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:00:29-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:00:29-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:00:29-07:00 - INFO [report-builder]: 
++-------+------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|------|------|------------|-------------|-------------|-------------|------------|
+| query | 9989 | 11   | 1982.9 tps | 0.84 s      | 0.01 s      | 0.41 s      | 1960.2 tps |
++-------+------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:00:29-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:00:29-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 84B        | 84B         | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 84B        | 84B         | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 84B        | 84B         | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.5MB      | 46.4MB      | 34.06%   | 31.20%   | 10.0MB     | 2.0MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.2MB      | 48.2MB      | 34.08%   | 31.99%   | 9.9MB      | 1.9MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.5MB      | 45.5MB      | 28.07%   | 26.04%   | 9.9MB      | 2.0MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 237.78%  | 229.42%  | 12.7MB     | 19.5MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 248.22%  | 237.85%  | 12.4MB     | 19.1MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 220.42%  | 212.91%  | 12.5MB     | 19.4MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.34%    | 0.31%    | 8.2KB      | 8.2KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.71%    | 0.61%    | 16.4KB     | 16.4KB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.2GB       | 1.2GB       | 0.45%    | 0.36%    | 8.2KB      | 8.2KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:00:29-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:00:29-07:00 - INFO [defaultTest]: Waiting 5 seconds for the next round... 
+
+2019-10-10T05:00:29-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:30-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:31-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:32-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:33-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:34-07:00 - INFO [defaultTest]: ------ Test round 38 ------ 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":660,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:34-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:34-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2100}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":656,"roundIdx":38,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:35-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 200750 Succ: 200534 Fail:216 Unfinished:0 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:34-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:35-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:35-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#38
+	{"type":"fixed-rate","opts":{"tps":2100}}
+
+2019-10-10T05:00:36-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 202515 Succ: 201320 Fail:216 Unfinished:979 
+
+2019-10-10T05:00:36-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:36-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:37-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 204603 Succ: 202866 Fail:218 Unfinished:1519 
+
+2019-10-10T05:00:37-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:37-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:38-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 206710 Succ: 204349 Fail:220 Unfinished:2141 
+
+2019-10-10T05:00:38-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:38-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:39-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 208682 Succ: 205858 Fail:221 Unfinished:2603 
+
+2019-10-10T05:00:40-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:40-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 210781 Succ: 207701 Fail:223 Unfinished:2857 
+
+2019-10-10T05:00:40-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:40-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:40-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:40-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:40-07:00 - DEBUG [report-builder]: r.create.max: 1570708840.197 r.create.min: 1570708835.087 r.final.max: 1570708840.524 r.final.min: 1570708835.102 r.final.last: 1570708840.524 
+
+2019-10-10T05:00:40-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1929.2 
+
+2019-10-10T05:00:40-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 10500 
+
+2019-10-10T05:00:40-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:00:40-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:00:40-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:00:40-07:00 - INFO [report-builder]: 
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ  | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| query | 10489 | 11   | 2054.8 tps | 1.97 s      | 0.01 s      | 0.97 s      | 1929.2 tps |
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:00:40-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:00:40-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.3MB      | 46.3MB      | 27.22%   | 24.50%   | 9.3MB      | 1.8MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.4MB      | 48.3MB      | 36.23%   | 28.86%   | 10.3MB     | 1.6MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.4MB      | 45.4MB      | 28.33%   | 26.27%   | 10.1MB     | 1.8MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 247.30%  | 230.63%  | 12.9MB     | 17.1MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 247.39%  | 239.73%  | 12.7MB     | 17.4MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 228.77%  | 227.01%  | 13.0MB     | 18.1MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.37%    | 0.35%    | 8.7KB      | 8.7KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.85%    | 0.68%    | 17.4KB     | 17.4KB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.1GB       | 1.1GB       | 0.48%    | 0.39%    | 8.7KB      | 8.7KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:00:40-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:00:40-07:00 - INFO [defaultTest]: Waiting 5 seconds for the next round... 
+
+2019-10-10T05:00:41-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:42-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:43-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:44-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:45-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:45-07:00 - INFO [defaultTest]: ------ Test round 39 ------ 
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:45-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:45-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":695,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:45-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2200}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":687,"roundIdx":39,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:45-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:45-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:46-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:46-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#39
+	{"type":"fixed-rate","opts":{"tps":2200}}
+
+2019-10-10T05:00:46-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 211250 Succ: 211023 Fail:227 Unfinished:0 
+
+2019-10-10T05:00:46-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:46-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:47-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 213186 Succ: 211878 Fail:229 Unfinished:1079 
+
+2019-10-10T05:00:47-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:48-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 215391 Succ: 213508 Fail:229 Unfinished:1654 
+
+2019-10-10T05:00:49-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 217589 Succ: 214640 Fail:230 Unfinished:2719 
+
+2019-10-10T05:00:49-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:49-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:50-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 219795 Succ: 216770 Fail:231 Unfinished:2794 
+
+2019-10-10T05:00:50-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:50-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:50-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:50-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:51-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:51-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222008 Succ: 218938 Fail:234 Unfinished:2836 
+
+2019-10-10T05:00:51-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:52-07:00 - DEBUG [report-builder]: r.create.max: 1570708851.039 r.create.min: 1570708845.865 r.final.max: 1570708851.831 r.final.min: 1570708845.884 r.final.last: 1570708851.831 
+
+2019-10-10T05:00:52-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1841.9 
+
+2019-10-10T05:00:52-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 11000 
+
+2019-10-10T05:00:52-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:00:52-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:00:52-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:00:52-07:00 - INFO [report-builder]: 
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ  | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| query | 10989 | 11   | 2126.0 tps | 2.35 s      | 0.02 s      | 1.05 s      | 1841.9 tps |
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:00:52-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:00:52-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.3MB      | 46.3MB      | 27.72%   | 22.49%   | 9.2MB      | 1.8MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.2MB      | 47.7MB      | 32.77%   | 22.65%   | 9.6MB      | 1.8MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.4MB      | 45.4MB      | 33.72%   | 27.39%   | 9.4MB      | 1.7MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 228.03%  | 199.75%  | 13.7MB     | 17.0MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 233.02%  | 203.63%  | 13.7MB     | 18.5MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 252.73%  | 208.12%  | 13.6MB     | 17.0MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.49%    | 0.41%    | 8.2KB      | 8.2KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.77%    | 0.57%    | 16.4KB     | 16.4KB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.1GB       | 1.1GB       | 0.41%    | 0.38%    | 8.2KB      | 8.2KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:00:52-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:00:52-07:00 - INFO [defaultTest]: Waiting 5 seconds for the next round... 
+
+2019-10-10T05:00:52-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:53-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:54-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:55-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:56-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:57-07:00 - INFO [defaultTest]: ------ Test round 40 ------ 
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":0}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":1}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":3}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":4}
+
+2019-10-10T05:00:57-07:00 - INFO [client-util.js]: Waiting for 0 clients to be ready...  
+
+2019-10-10T05:00:57-07:00 - INFO [client-util.js]: 0 clients ready, starting test phase 
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":7}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":2}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":8}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":9}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":730,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":15}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":6}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":5}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":10}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":14}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":13}
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":11}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - DEBUG [local-client.js]: doTest() with:
+	{"type":"test","label":"query","rateControl":{"type":"fixed-rate","opts":{"tps":2300}},"trim":0,"cb":"benchmark/simple/query.js","config":"/root/caliper-Def/network/fabric-v1.4.1/raft/fabric-go-tls.yaml","root":"/root/caliper-Def","numb":718,"roundIdx":40,"totalClients":16,"clients":16,"clientargs":{},"clientIdx":12}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: txUpdateTime: 1000 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15035 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15102 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15058 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#12 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#0 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15118 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15076 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#4 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#15 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15063 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#7 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15070 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#5 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15047 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15082 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#6 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#2 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#8 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15096 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15112 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#11 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15052 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#14 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#3 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15088 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#9 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15041 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#1 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15107 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#13 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [local-client.js]: Info: client 15094 start test runFixedNumber():querying accounts 
+
+2019-10-10T05:00:57-07:00 - DEBUG [rateControl.js]: Creating rate controller for client#10 for round#40
+	{"type":"fixed-rate","opts":{"tps":2300}}
+
+2019-10-10T05:00:57-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 222250 Succ: 222012 Fail:238 Unfinished:0 
+
+2019-10-10T05:00:58-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:58-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 224288 Succ: 222521 Fail:238 Unfinished:1529 
+
+2019-10-10T05:00:59-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:59-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 226589 Succ: 224054 Fail:239 Unfinished:2296 
+
+2019-10-10T05:00:59-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:00:59-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:00-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 228855 Succ: 225686 Fail:242 Unfinished:2927 
+
+2019-10-10T05:01:01-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 231197 Succ: 227029 Fail:242 Unfinished:3926 
+
+2019-10-10T05:01:02-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:02-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:02-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 233502 Succ: 228419 Fail:243 Unfinished:4840 
+
+2019-10-10T05:01:02-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:03-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:03-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 233750 Succ: 231205 Fail:245 Unfinished:2300 
+
+2019-10-10T05:01:03-07:00 - ERROR [adapters/fabric]: Query error for simple@v0 in mychannel:
+	- Endorsement error from peer0.org3.example.com: {"code":303, "reason": "abnormal account"} 
+
+2019-10-10T05:01:04-07:00 - DEBUG [report-builder]: r.create.max: 1570708862.432 r.create.min: 1570708857.215 r.final.max: 1570708863.843 r.final.min: 1570708857.23 r.final.last: 1570708863.843 
+
+2019-10-10T05:01:04-07:00 - DEBUG [report-builder]:  throughput for only success time computed: 1733.7 
+
+2019-10-10T05:01:04-07:00 - DEBUG [report-builder]: sendTransactionProposal: 0ms length: 11500 
+
+2019-10-10T05:01:04-07:00 - DEBUG [report-builder]: sendTransaction: 0ms 
+
+2019-10-10T05:01:04-07:00 - DEBUG [report-builder]: invokeLatency: 0ms 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: ###test result:### 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: 
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+| Name  | Succ  | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| query | 11491 | 9    | 2204.3 tps | 3.50 s      | 0.01 s      | 1.54 s      | 1733.7 tps |
++-------+-------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: ### resource stats ### 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: 
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | Memory(avg) | CPU(max) | CPU(avg) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | -           | NaN%     | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.9MB       | 4.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 4.7MB       | 4.7MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.3MB      | 46.3MB      | 40.45%   | 28.26%   | 10.9MB     | 2.2MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.6MB      | 46.6MB      | 38.51%   | 32.84%   | 7.2MB      | 1.6MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.4MB      | 45.4MB      | 32.94%   | 30.89%   | 10.5MB     | 2.0MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 237.55%  | 236.84%  | 12.5MB     | 21.5MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 230.75%  | 223.47%  | 12.1MB     | 14.6MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 1.2GB       | 254.69%  | 226.41%  | 12.3MB     | 20.9MB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 1.5GB       | 0.76%    | 0.46%    | 8.9KB      | 8.9KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 1.4GB       | 0.48%    | 0.47%    | 17.4KB     | 17.4KB      | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.1GB       | 1.1GB       | 0.48%    | 0.38%    | 9.2KB      | 9.1KB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 6.8MB       | 6.8MB       | 0.01%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 7.0MB       | 7.0MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|-------------|----------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 6.9MB       | 6.9MB       | 0.00%    | 0.00%    | 0B         | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+-------------+----------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [defaultTest]: ------ Passed 'query' testing ------ 
+
+2019-10-10T05:01:04-07:00 - INFO [caliper-flow]: ---------- Finished Test ----------
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: ###all test results:### 
+
+2019-10-10T05:01:04-07:00 - INFO [report-builder]: 
++------+-------+-------+------+------------+-------------+-------------+-------------+------------+
+| Test | Name  | Succ  | Fail | Send Rate  | Max Latency | Min Latency | Avg Latency | Throughput |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 1    | open  | 1500  | 0    | 268.8 tps  | 0.88 s      | 0.15 s      | 0.48 s      | 262.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 2    | open  | 2000  | 0    | 399.4 tps  | 0.83 s      | 0.19 s      | 0.55 s      | 360.2 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 3    | open  | 2500  | 0    | 485.5 tps  | 1.01 s      | 0.28 s      | 0.61 s      | 453.6 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 4    | open  | 3000  | 0    | 558.0 tps  | 1.96 s      | 0.46 s      | 1.40 s      | 513.2 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 5    | open  | 3500  | 0    | 666.5 tps  | 3.59 s      | 0.43 s      | 1.86 s      | 561.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 6    | open  | 4000  | 0    | 786.6 tps  | 3.90 s      | 0.75 s      | 2.65 s      | 571.3 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 7    | open  | 4250  | 0    | 819.5 tps  | 4.52 s      | 0.95 s      | 3.11 s      | 581.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 8    | open  | 4500  | 0    | 890.9 tps  | 4.80 s      | 1.04 s      | 3.44 s      | 584.9 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 9    | open  | 4750  | 0    | 911.2 tps  | 5.15 s      | 1.31 s      | 3.83 s      | 581.3 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 10   | open  | 5000  | 0    | 797.2 tps  | 5.38 s      | 1.55 s      | 3.95 s      | 590.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 11   | open  | 5250  | 0    | 872.5 tps  | 5.66 s      | 1.77 s      | 4.47 s      | 588.6 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 12   | open  | 5500  | 0    | 1052.0 tps | 6.15 s      | 3.24 s      | 4.88 s      | 589.7 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 13   | open  | 5739  | 11   | 934.8 tps  | 8.38 s      | 2.38 s      | 4.96 s      | 55.1 tps   |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 14   | open  | 6000  | 0    | 1142.9 tps | 7.06 s      | 1.65 s      | 5.14 s      | 583.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 15   | open  | 6250  | 0    | 1139.5 tps | 7.36 s      | 3.40 s      | 5.56 s      | 599.0 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 16   | open  | 6495  | 5    | 928.4 tps  | 8.24 s      | 2.74 s      | 6.18 s      | 62.0 tps   |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 17   | open  | 6748  | 2    | 1046.0 tps | 8.09 s      | 1.62 s      | 6.00 s      | 65.1 tps   |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 18   | open  | 7000  | 0    | 1213.2 tps | 8.39 s      | 1.61 s      | 6.55 s      | 596.3 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 19   | open  | 7205  | 45   | 1243.1 tps | 9.13 s      | 1.50 s      | 6.88 s      | 68.7 tps   |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 20   | open  | 7458  | 42   | 1321.8 tps | 10.04 s     | 1.33 s      | 7.67 s      | 71.5 tps   |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 21   | query | 1997  | 3    | 397.1 tps  | 0.10 s      | 0.00 s      | 0.01 s      | 395.9 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 22   | query | 2496  | 4    | 490.6 tps  | 0.10 s      | 0.00 s      | 0.01 s      | 488.6 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 23   | query | 2997  | 3    | 578.1 tps  | 0.12 s      | 0.00 s      | 0.01 s      | 576.2 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 24   | query | 3497  | 3    | 664.3 tps  | 0.12 s      | 0.00 s      | 0.01 s      | 662.3 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 25   | query | 3996  | 4    | 795.2 tps  | 0.11 s      | 0.00 s      | 0.01 s      | 793.5 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 26   | query | 4495  | 5    | 888.1 tps  | 0.07 s      | 0.00 s      | 0.01 s      | 885.4 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 27   | query | 4997  | 3    | 977.3 tps  | 0.08 s      | 0.00 s      | 0.01 s      | 974.1 tps  |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 28   | query | 5498  | 2    | 1062.2 tps | 0.09 s      | 0.00 s      | 0.01 s      | 1060.2 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 29   | query | 5993  | 7    | 1194.0 tps | 0.10 s      | 0.00 s      | 0.01 s      | 1190.7 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 30   | query | 6494  | 6    | 1272.3 tps | 0.12 s      | 0.00 s      | 0.01 s      | 1269.1 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 31   | query | 6996  | 4    | 1380.1 tps | 0.16 s      | 0.00 s      | 0.02 s      | 1377.4 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 32   | query | 7494  | 6    | 1465.7 tps | 0.20 s      | 0.00 s      | 0.03 s      | 1461.7 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 33   | query | 7987  | 13   | 1573.9 tps | 0.19 s      | 0.01 s      | 0.04 s      | 1567.6 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 34   | query | 8485  | 15   | 1682.2 tps | 0.39 s      | 0.00 s      | 0.07 s      | 1676.5 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 35   | query | 8992  | 8    | 1769.6 tps | 0.31 s      | 0.00 s      | 0.09 s      | 1765.9 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 36   | query | 9486  | 14   | 1860.9 tps | 0.63 s      | 0.00 s      | 0.19 s      | 1856.0 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 37   | query | 9989  | 11   | 1982.9 tps | 0.84 s      | 0.01 s      | 0.41 s      | 1960.2 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 38   | query | 10489 | 11   | 2054.8 tps | 1.97 s      | 0.01 s      | 0.97 s      | 1929.2 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 39   | query | 10989 | 11   | 2126.0 tps | 2.35 s      | 0.02 s      | 1.05 s      | 1841.9 tps |
+|------|-------|-------|------|------------|-------------|-------------|-------------|------------|
+| 40   | query | 11491 | 9    | 2204.3 tps | 3.50 s      | 0.01 s      | 1.54 s      | 1733.7 tps |
++------+-------+-------+------+------------+-------------+-------------+-------------+------------+
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [monitor.js]: 
+ ### resource stats (maximum) ### 
+
+2019-10-10T05:01:04-07:00 - INFO [monitor.js]: 
++---------+-----------------------------------+-------------+----------+------------+-------------+-----------+------------+
+| TYPE    | NAME                              | Memory(max) | CPU(max) | Traffic In | Traffic Out | Disc Read | Disc Write |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Process | node local-client.js(avg)         | -           | NaN%     | -          | -           | -         | -          |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 7.3MB       | 8.60%    | 439B       | 262B        | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 7.8MB       | 0.56%    | 390B       | 262B        | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...nk-v0 | 7.5MB       | 0.53%    | 390B       | 262B        | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 46.5MB      | 49.04%   | 12.5MB     | 2.6MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 48.6MB      | 47.33%   | 13.1MB     | 2.8MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/dev-peer0...le-v0 | 45.6MB      | 46.70%   | 12.3MB     | 2.3MB       | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 268.07%  | 42.1MB     | 23.6MB      | 4.0KB     | 58.0MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 273.28%  | 42.4MB     | 27.2MB      | 4.0KB     | 58.0MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/peer0.org...e.com | 1.2GB       | 261.01%  | 42.1MB     | 23.7MB      | 0B        | 52.5MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer2....e.com | 1.5GB       | 223.17%  | 64.6MB     | 69.4MB      | 4.0KB     | 65.5MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer1....e.com | 1.4GB       | 142.83%  | 37.3MB     | 98.6MB      | 4.0KB     | 63.7MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/orderer0....e.com | 1.2GB       | 176.15%  | 49.8MB     | 52.0MB      | 4.0KB     | 63.7MB     |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org1.e...e.com | 9.6MB       | 0.69%    | 301B       | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org3.e...e.com | 9.9MB       | 1.13%    | 371B       | 0B          | 0B        | 0B         |
+|---------|-----------------------------------|-------------|----------|------------|-------------|-----------|------------|
+| Docker  | 192.168.159.135/ca.org2.e...e.com | 9.9MB       | 0.97%    | 371B       | 0B          | 0B        | 0B         |
++---------+-----------------------------------+-------------+----------+------------+-------------+-----------+------------+
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [caliper-flow]: Generated report with path /root/caliper-Def/report-20191010T120104.html 
+
+2019-10-10T05:01:04-07:00 - INFO [demo.js]: [Transaction Info] - Submitted: 233750 Succ: 233503 Fail:247 Unfinished:0 
+
+2019-10-10T05:01:04-07:00 - INFO [caliper-flow]: 
+
+########################################
+# Test summary: 40 succeeded, 0 failed #
+########################################
+ 
+
+2019-10-10T05:01:04-07:00 - INFO [caliper-utils]: Executing command: cd /root/caliper-Def;echo 'clean  the network in  remote host';sleep 5s 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
+2019-10-10T05:01:04-07:00 - INFO [client-util.js]: Client exited with code null 
+
