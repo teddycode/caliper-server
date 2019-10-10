@@ -68,7 +68,7 @@ services:
         - ./config/crypto-config/peerOrganizations/org3.example.com/ca/:/etc/hyperledger/fabric-ca-server-config
         - ./config/crypto-config/peerOrganizations/org3.example.com/tlsca/:/etc/hyperledger/fabric-ca-server-tls
         container_name: ca.org3.example.com
-        
+
     orderer0.example.com:
         container_name: orderer0.example.com
         image: hyperledger/fabric-orderer:1.4.1

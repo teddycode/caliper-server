@@ -16,7 +16,7 @@
 test:
   name: simple
   description: This is an example benchmark for caliper, to test the backend DLT's
-    performance with simple account opening & querying transactions
+    performance with simple account opening & querying transactions.Env 8C16G & 3o1p2c
   clients:
     type: local
     number: 5
@@ -42,11 +42,7 @@ test:
     - 10000
     - 10000
     - 10000
-    - 10000
     rateControl:
-    - type: fixed-rate
-      opts:
-        tps: 100
     - type: fixed-rate
       opts:
         tps: 200
@@ -109,15 +105,47 @@ test:
     callback: benchmark/simple/open.js
   - label: query
     txNumber:
-    - 1000
-    - 1000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
+    - 10000
     rateControl:
     - type: fixed-rate
       opts:
-        tps: 100
+        tps: 600
     - type: fixed-rate
       opts:
-        tps: 200
+        tps: 1000
+    - type: fixed-rate
+      opts:
+        tps: 1400
+    - type: fixed-rate
+      opts:
+        tps: 1800
+    - type: fixed-rate
+      opts:
+        tps: 2200
+    - type: fixed-rate
+      opts:
+        tps: 2600
+    - type: fixed-rate
+      opts:
+        tps: 3000
+    - type: fixed-rate
+      opts:
+        tps: 3400
+    - type: fixed-rate
+      opts:
+        tps: 3800
+    - type: fixed-rate
+      opts:
+        tps: 4200
     callback: benchmark/simple/query.js
 observer:
   interval: 1
