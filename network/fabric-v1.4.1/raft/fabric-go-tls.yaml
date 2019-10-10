@@ -20,8 +20,8 @@ mutual-tls: false
 caliper:
   blockchain: fabric
   command:
-    start: docker-compose -f network/fabric-v1.4.1/raft/docker-compose-tls.yaml up -d;sleep 3s
-    end: docker-compose -f network/fabric-v1.4.1/raft/docker-compose-tls.yaml down;(test -z \"$(docker ps -aq)\") || docker rm $(docker ps -aq);(test -z \"$(docker images dev* -q)\") || docker rmi $(docker images dev* -q);rm -rf /tmp/hfc-*
+    start: echo 'please start the network  in remote host';sleep 10
+    end: echo 'clean  the network in  remote host';sleep 5s
 
 info:
   Version: 1.4.0
@@ -118,7 +118,7 @@ channels:
       peer0.org2.example.com:
         eventSource: true
       peer0.org3.example.com:
-        eventSource: true        
+        eventSource: true
 
     chaincodes:
     - id: simple
@@ -167,19 +167,19 @@ organizations:
 
 orderers:
   orderer0.example.com:
-    url: grpcs://localhost:7050
+    url: grpcs://192.168.159.135:7050
     grpcOptions:
       ssl-target-name-override: orderer0.example.com
     tlsCACerts:
         path: network/fabric-v1.4.1/raft/config/crypto-config/ordererOrganizations/example.com/orderers/orderer0.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
   orderer1.example.com:
-    url: grpcs://localhost:8050
+    url: grpcs://192.168.159.135:8050
     grpcOptions:
         ssl-target-name-override: orderer1.example.com
     tlsCACerts:
         path: network/fabric-v1.4.1/raft/config/crypto-config/ordererOrganizations/example.com/orderers/orderer1.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
   orderer2.example.com:
-      url: grpcs://localhost:9050
+      url: grpcs://192.168.159.135:9050
       grpcOptions:
           ssl-target-name-override: orderer2.example.com
       tlsCACerts:
@@ -187,7 +187,7 @@ orderers:
 
 peers:
   peer0.org1.example.com:
-    url: grpcs://localhost:7051
+    url: grpcs://192.168.159.135:7051
     grpcOptions:
       ssl-target-name-override: peer0.org1.example.com
       grpc.keepalive_time_ms: 600000
@@ -195,15 +195,15 @@ peers:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/msp/tlscacerts/tlsca.org1.example.com-cert.pem
 
   peer0.org2.example.com:
-    url: grpcs://localhost:8051
+    url: grpcs://192.168.159.135:8051
     grpcOptions:
       ssl-target-name-override: peer0.org2.example.com
       grpc.keepalive_time_ms: 600000
     tlsCACerts:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/msp/tlscacerts/tlsca.org2.example.com-cert.pem
- 
+
   peer0.org3.example.com:
-    url: grpcs://localhost:9051
+    url: grpcs://192.168.159.135:9051
     grpcOptions:
       ssl-target-name-override: peer0.org3.example.com
       grpc.keepalive_time_ms: 600000
@@ -212,7 +212,7 @@ peers:
 
 certificateAuthorities:
   ca.org1.example.com:
-    url: https://localhost:7054
+    url: https://192.168.159.135:7054
     httpOptions:
       verify: false
     tlsCACerts:
@@ -222,7 +222,7 @@ certificateAuthorities:
       enrollSecret: adminpw
 
   ca.org2.example.com:
-    url: https://localhost:8054
+    url: https://192.168.159.135:8054
     httpOptions:
       verify: false
     tlsCACerts:
@@ -232,7 +232,7 @@ certificateAuthorities:
       enrollSecret: adminpw
 
   ca.org3.example.com:
-    url: https://localhost:9054
+    url: https://192.168.159.135:9054
     httpOptions:
       verify: false
     tlsCACerts:

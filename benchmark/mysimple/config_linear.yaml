@@ -101,7 +101,7 @@ test:
       opts:
         tps: 2000
     arguments:
-      money: 10000
+      money: 1000
     callback: benchmark/simple/open.js
   - label: query
     txNumber:
