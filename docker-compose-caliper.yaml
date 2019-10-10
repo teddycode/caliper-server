@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+    caliper:
+        container_name: caliper
+        image: hyperledger/caliper:0.1.0
+        environment:
+        - CALIPER_BIND_SUT=fabric
+        - CALIPER_BIND_SDK=1.4.1
+        - CALIPER_BENCHCONFIG=benchmark/simple/config.yaml
+        - CALIPER_NETWORKCONFIG=network/fabric-v1.4.1/3org2peergoleveldb/fabric-go.yaml
+        volumes:
+        - /home/teddy/Desktop/FFMC/caliper-bench:/home/node/hyperledger/caliper/workspace
+        - ./:/hyperledger/caliper/workspace
