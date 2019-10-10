@@ -25,7 +25,7 @@ caliper:
 
 info:
   Version: 1.4.0
-  Size: 3 Orgs with 1 Peer
+  Size: 3 Orgs with 1 Peer & 2 clients
   Orderer: Raft
   Distribution: Single Host
   StateDB: GoLevelDB
@@ -42,6 +42,18 @@ clients:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/keystore/key.pem
       clientSignedCert:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp/signcerts/User1@org1.example.com-cert.pem
+  
+  client1.org1.example.com:
+    client:
+      organization: Org1
+      credentialStore:
+        path: /tmp/hfc-kvs/org1
+        cryptoStore:
+          path: /tmp/hfc-cvs/org1
+      clientPrivateKey:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org1.example.com/users/User2@org1.example.com/msp/keystore/key.pem
+      clientSignedCert:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org1.example.com/users/User2@org1.example.com/msp/signcerts/User2@org1.example.com-cert.pem        
 
   client0.org2.example.com:
     client:
@@ -54,7 +66,19 @@ clients:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/keystore/key.pem
       clientSignedCert:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org2.example.com/users/User1@org2.example.com/msp/signcerts/User1@org2.example.com-cert.pem
- 
+  
+  client1.org2.example.com:
+    client:
+      organization: Org2
+      credentialStore:
+        path: /tmp/hfc-kvs/org2
+        cryptoStore:
+          path: /tmp/hfc-cvs/org2
+      clientPrivateKey:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org2.example.com/users/User2@org2.example.com/msp/keystore/key.pem
+      clientSignedCert:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org2.example.com/users/User2@org2.example.com/msp/signcerts/User2@org2.example.com-cert.pem
+
   client0.org3.example.com:
     client:
       organization: Org3
@@ -66,6 +90,18 @@ clients:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org3.example.com/users/User1@org3.example.com/msp/keystore/key.pem
       clientSignedCert:
         path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org3.example.com/users/User1@org3.example.com/msp/signcerts/User1@org3.example.com-cert.pem
+
+  client1.org3.example.com:
+    client:
+      organization: Org3
+      credentialStore:
+        path: /tmp/hfc-kvs/org3
+        cryptoStore:
+          path: /tmp/hfc-cvs/org3
+      clientPrivateKey:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org3.example.com/users/User2@org3.example.com/msp/keystore/key.pem
+      clientSignedCert:
+        path: network/fabric-v1.4.1/raft/config/crypto-config/peerOrganizations/org3.example.com/users/User2@org3.example.com/msp/signcerts/User2@org3.example.com-cert.pem
 
 
 channels:
