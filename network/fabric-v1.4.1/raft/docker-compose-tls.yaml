@@ -92,6 +92,8 @@ services:
         volumes:
         - ./config/:/etc/hyperledger/configtx
         - ./config/crypto-config/ordererOrganizations/example.com/orderers/orderer0.example.com/:/etc/hyperledger/msp/orderer
+        - ./data/orderer0:/var/hyperledger/production
+
         depends_on:
         - ca.org1.example.com
         - ca.org2.example.com
@@ -120,6 +122,8 @@ services:
         volumes:
         - ./config/:/etc/hyperledger/configtx
         - ./config/crypto-config/ordererOrganizations/example.com/orderers/orderer1.example.com/:/etc/hyperledger/msp/orderer
+        - ./data/orderer1:/var/hyperledger/production
+
         depends_on:
         - ca.org1.example.com
         - ca.org2.example.com
@@ -147,6 +151,8 @@ services:
         volumes:
         - ./config/:/etc/hyperledger/configtx
         - ./config/crypto-config/ordererOrganizations/example.com/orderers/orderer2.example.com/:/etc/hyperledger/msp/orderer
+        - ./data/orderer2:/var/hyperledger/production
+
         depends_on:
         - ca.org1.example.com
         - ca.org2.example.com
@@ -181,6 +187,8 @@ services:
         volumes:
         - /var/run/:/host/var/run/
         - ./config/crypto-config/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/:/etc/hyperledger/msp/peer
+        - ./data/peer01:/var/hyperledger/production    
+
         depends_on:
         - orderer0.example.com
         - orderer1.example.com
@@ -214,6 +222,8 @@ services:
         volumes:
         - /var/run/:/host/var/run/
         - ./config/crypto-config/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/:/etc/hyperledger/msp/peer
+        - ./data/peer02:/var/hyperledger/production
+
         depends_on:
         - orderer0.example.com
         - orderer1.example.com
@@ -246,6 +256,8 @@ services:
         volumes:
         - /var/run/:/host/var/run/
         - ./config/crypto-config/peerOrganizations/org3.example.com/peers/peer0.org3.example.com/:/etc/hyperledger/msp/peer
+        - ./data/peer03:/var/hyperledger/production
+
         depends_on:
         - orderer0.example.com
         - orderer1.example.com

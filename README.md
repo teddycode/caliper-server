@@ -1,38 +1,29 @@
-# Caliper Application Example(s)
+# Introductions 
 
-Basic CLI driven sample(s)
+This is a  hyperledger fabric  stress  test  with custom Hyperledger caliper.
 
-## Working Benchmarks (local)
-- Fabric
+## Framework
+- caliper framework
+![pic1](https://hyperledger.github.io/caliper/assets/img/architecture.png)
+
+## Usage
+
+ ### Prepare
+
+ - node-gyp, python2, make, g++ and git
+ - node  version 8.16.2
+ - npm  version 6.4.1
+
+ ### dependencies 
+- fabric
 ```bash
-caliper benchmark run -w <workspace path> -c benchmark/simple/config.yaml -n network/fabric-v1.4/2org1peercouchdb/fabric-node.yaml
+user@ubuntu:~/caliper-benchmarks$ npm init -y
+user@ubuntu:~/caliper-benchmarks$ npm install --only=prod @hyperledger/caliper-cli
+user@ubuntu:~/caliper-benchmarks$ npx caliper bind --caliper-bind-sut fabric --caliper-bind-sdk 1.4.0
 ```
-
-- Composer
-```bash
-caliper benchmark run -w <workspace path> -c benchmark/composer/config.yaml -n network/fabric-v1.3/2org1peercouchdb/composer.json
-```
-
-- Sawtooth
-```bash
-caliper benchmark run -w <workspace path> -c benchmark/simple/config-sawtooth.yaml -n network/sawtooth/simplenetwork/sawtooth.json 
-```
-
-## Benchmarks Under Construction
-
-- Burrow
-```bash
-caliper benchmark run -w <workspace path> -c benchmark/simple/config.yaml -n network/burrow/simple/burrow.json
-```
-
-- Iroha
-```bash
-caliper benchmark run -w <workspace path> -c benchmark/simple/config-iroha.yaml -n network/iroha/simplenetwork/iroha.json 
-```
-
-## Starting and using a Zookeeper client
+### run testsuites
 
 ```bash
-caliper zooclient start -w <workspace path> -n network/fabric-v1.4/2org1peercouchdb/fabric-node.json -a 127.0.0.1:2181
-caliper benchmark run -w <workspace path> -c benchmark/simple/config-zookeeper.yaml  -n network/fabric-v1.4/2org1peercouchdb/fabric-node.json
+user@ubuntu:~/caliper-benchmarks$ npx caliper benchmark run --caliper-workspace . --caliper-benchconfig benchmarks/scenario/simple/config.yaml --caliper-networkconfig networks/fabric/fabric-v1.4/2org1peergoleveldb/fabric-go.yaml
 ```
+
